@@ -1,2 +1,2 @@
 # CIFAR-Classifier
-An object-oriented neural net implementation for CIFAR dataset classification in Juypter Lab.
+An object-oriented neural net implementation CIFAR classification.
